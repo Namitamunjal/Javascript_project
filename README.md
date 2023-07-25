@@ -22,7 +22,7 @@
   This function will print the total number of NFTs we have minted to the console.
 
 # Command to Run 
- node "/workspace/Beginning-Javascript/playground.js"
+ node "/workspace/Beginning-Javascript/assessment.js"
  
 # Deployment Environment
 This contract can be deployed in any version of solidity between 0.7.0 to 0.9.0.
